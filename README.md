@@ -1,4 +1,4 @@
-# Visitor-Management-Sytem
+# Visitor-Management-System
 This project manages visitor records in a prison setting.
 It has three main users; Admin, Warden and Visitors.
 
